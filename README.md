@@ -8,13 +8,6 @@ This project demonstrates production-grade Infrastructure as Code (IaC) principl
 <p align="center">
   <img src="./Terraform-Automation.png" alt="AWS Infrastructure Architecture" width="900"/>
 </p>
-## 🏆 Key Achievements
-
-- ✅ Automated 10+ AWS resources — VPC, EC2, IAM roles, Security Groups and more
-- ✅ Built 4+ reusable Terraform modules with variables and outputs
-- ✅ Reduced manual infrastructure setup time by approximately 60%
-- ✅ Configured S3 remote backend with DynamoDB state locking — preventing concurrent state conflicts
-- ✅ One-command deployment across dev and prod environments
 
 ---
 
@@ -32,7 +25,13 @@ This project demonstrates production-grade Infrastructure as Code (IaC) principl
 | Route Tables | Traffic routing configuration |
 
 ---
+## 🏆 Key Achievements
 
+- ✅ Automated 10+ AWS resources — VPC, EC2, IAM roles, Security Groups and more
+- ✅ Built 4+ reusable Terraform modules with variables and outputs
+- ✅ Reduced manual infrastructure setup time by approximately 60%
+- ✅ Configured S3 remote backend with DynamoDB state locking — preventing concurrent state conflicts
+- ✅ One-command deployment across dev and prod environments
 ## 🛠️ Tech Stack
 
 `Terraform` `AWS EC2` `AWS VPC` `AWS IAM` `AWS S3` `AWS DynamoDB` `Linux` `Bash` `Apache`
