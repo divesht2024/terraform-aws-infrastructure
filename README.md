@@ -5,7 +5,9 @@ Automated provisioning of 10+ AWS resources using Terraform with reusable module
 This project demonstrates production-grade Infrastructure as Code (IaC) principles enabling consistent, one-command deployment across dev and prod environments.
 
 ---
-
+<p align="center">
+  <img src="./Terraform-Automation.png" alt="AWS Infrastructure Architecture" width="900"/>
+</p>
 ## 🏆 Key Achievements
 
 - ✅ Automated 10+ AWS resources — VPC, EC2, IAM roles, Security Groups and more
