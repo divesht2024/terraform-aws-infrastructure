@@ -6,7 +6,7 @@ This project demonstrates production-grade Infrastructure as Code (IaC) principl
 
 ---
 <p align="center">
-  <img src="./Terraform-Automation.png" alt="AWS Infrastructure Architecture" width="900"/>
+  <img src="./Terraform-Automation-with-GitHub-Actions.png" alt="AWS Infrastructure Architecture" width="900"/>
 </p>
 
 ---
